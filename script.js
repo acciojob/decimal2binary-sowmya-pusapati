@@ -4,4 +4,4 @@ function decimalToBinary(dec) {
   
 }
 
-module.exports = threeSum;
+module.exports = decimalToBinary;

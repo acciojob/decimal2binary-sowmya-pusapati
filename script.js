@@ -1,7 +1,5 @@
-function decimalToBinary(dec) {
-// write your code here
-	 console.log((dec >>> 0).toString(2));
-  
+function decimalToBinary(num) {
+  // Write your code here
 }
 
-module.exports = decimalToBinary;
+window.decimalToBinary = decimalToBinary;
